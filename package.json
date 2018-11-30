@@ -1,0 +1,26 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "tools",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"no test command\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastienmichaux/node-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastienmichaux/node-tools/issues"
+  },
+  "homepage": "https://github.com/bastienmichaux/node-tools#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
